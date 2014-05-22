@@ -1,2 +1,2 @@
-## This is a markdown file\par
+## This is a markdown
 
